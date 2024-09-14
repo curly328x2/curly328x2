@@ -1,5 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curly328x2&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curly328x2&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
 <!--
 **curly328x2/curly328x2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
