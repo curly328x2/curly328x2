@@ -1,4 +1,7 @@
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curly328x2&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curly328x2&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=curly328x2&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+
 
 <!--
 **curly328x2/curly328x2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
